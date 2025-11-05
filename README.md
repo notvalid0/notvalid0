@@ -23,7 +23,7 @@ A Student now studying in BUPT
 - 🌱 I’m currently learning : C Programming Language && Machine Learning
 - 🌳 I'm currently trying : Helix && Git && CMAKE && Raylib
 
-### My Github
+### My Github Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notvalid0)](https://github.com/anuraghazra/github-readme-stats)
 
