@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About Me
+
+A Student now studying in BUPT
+
+- 🔭 I’m currently working on : Archlinux(CachyOS) && Hyprland
+- 🌱 I’m currently learning : C Programming Language && Machine Learning
+- 🌳 I'm currently trying : Helix && Git && CMAKE && Raylib
+
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
