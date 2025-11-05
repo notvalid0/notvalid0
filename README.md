@@ -28,6 +28,7 @@ A Student now studying in BUPT
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notvalid0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -35,15 +36,15 @@ A Student now studying in BUPT
 **🐱 My GitHub Data** 
 
 > 📦 128.4 kB Used in GitHub's Storage 
- > 
+> 
 > 🏆 65 Contributions in the Year 2025
- > 
+> 
 > 🚫 Not Opted to Hire
- > 
+> 
 > 📜 3 Public Repositories 
- > 
+> 
 > 🔑 0 Private Repositories 
- > 
+
 **I'm an Early 🐤** 
 
 ```text
@@ -52,6 +53,7 @@ A Student now studying in BUPT
 🌃 Evening                18 commits          ██████████░░░░░░░░░░░░░░░   38.30 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
+
 📅 **I'm Most Productive on Monday** 
 
 ```text
@@ -63,7 +65,6 @@ Friday                   9 commits           █████░░░░░░�
 Saturday                 9 commits           █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -90,12 +91,10 @@ HTML                     1 repo              ███████████�
 C                        1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
-
  Last Updated on 05/11/2025 13:32:18 UTC
+
 <!--END_SECTION:waka-->
