@@ -28,6 +28,8 @@ A Student now studying in BUPT
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notvalid0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -42,6 +44,45 @@ A Student now studying in BUPT
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                22 commits          ███████████░░░░░░░░░░░░░░   43.14 % 
+🌆 Daytime                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+🌃 Evening                22 commits          ███████████░░░░░░░░░░░░░░   43.14 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   10 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Tuesday                  10 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Wednesday                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Friday                   9 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Saturday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -56,5 +97,5 @@ C                        1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2025 18:47:39 UTC
+ Last Updated on 06/11/2025 18:49:07 UTC
 <!--END_SECTION:waka-->
