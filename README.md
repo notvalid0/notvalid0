@@ -28,15 +28,15 @@ A Student now studying in BUPT
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notvalid0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 128.5 kB Used in GitHub's Storage 
+> 📦 219.0 kB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2025
+> 🏆 74 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,21 +47,21 @@ A Student now studying in BUPT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22 commits          ███████████░░░░░░░░░░░░░░   43.14 % 
-🌆 Daytime                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌃 Evening                22 commits          ███████████░░░░░░░░░░░░░░   43.14 % 
+🌞 Morning                22 commits          ██████████░░░░░░░░░░░░░░░   39.29 % 
+🌆 Daytime                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌃 Evening                27 commits          ████████████░░░░░░░░░░░░░   48.21 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   10 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Tuesday                  10 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Wednesday                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Friday                   9 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Saturday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Monday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Tuesday                  10 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Wednesday                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Friday                   14 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Saturday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
@@ -71,16 +71,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        36 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Lab1-画板                  36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -97,5 +97,5 @@ C                        1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2025 18:49:07 UTC
+ Last Updated on 07/11/2025 18:44:21 UTC
 <!--END_SECTION:waka-->
