@@ -71,18 +71,16 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        2 hrs 22 mins       ██████████████████████░░░   89.32 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ShitCode-BUPT            2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +98,5 @@ C                        1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2025 18:53:06 UTC
+ Last Updated on 03/12/2025 18:51:33 UTC
 <!--END_SECTION:waka-->
