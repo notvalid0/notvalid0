@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,19 +71,20 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 mins              ███████████████████░░░░░░   74.73 % 
-CMake                    2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+C                        24 mins             ████████████░░░░░░░░░░░░░   48.43 % 
+Markdown                 16 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
+C++                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Calcu                    8 mins              ████████████████████████░   97.51 % 
-ShitCode-BUPT            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+ShitCode-BUPT            40 mins             █████████████████████░░░░   82.28 % 
+Calcu                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +102,5 @@ C                        1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2025 18:48:25 UTC
+ Last Updated on 10/12/2025 18:50:18 UTC
 <!--END_SECTION:waka-->
