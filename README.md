@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,17 +71,17 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        23 mins             ███████████████░░░░░░░░░░   58.63 % 
-Markdown                 16 mins             ██████████░░░░░░░░░░░░░░░   41.37 % 
+C                        29 mins             ████████████████░░░░░░░░░   63.36 % 
+Markdown                 16 mins             █████████░░░░░░░░░░░░░░░░   36.64 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ShitCode-BUPT            40 mins             █████████████████████████   100.00 % 
+ShitCode-BUPT            45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.00 % 
+Linux                    45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +99,5 @@ C                        1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2025 18:46:26 UTC
+ Last Updated on 15/12/2025 18:52:42 UTC
 <!--END_SECTION:waka-->
