@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,17 +71,23 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        29 mins             ████████████████░░░░░░░░░   63.36 % 
-Markdown                 16 mins             █████████░░░░░░░░░░░░░░░░   36.64 % 
+C                        1 hr 32 mins        █████████████████░░░░░░░░   69.13 % 
+JSON                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+jsonc                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 41 mins        ███████████████████░░░░░░   76.40 % 
+Zed                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
 
 🐱‍💻 Projects: 
-ShitCode-BUPT            45 mins             █████████████████████████   100.00 % 
+ShitCode-BUPT            1 hr 41 mins        ███████████████████░░░░░░   76.40 % 
+ShitCode-Of-Termux       30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +105,5 @@ C                        1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 18:59:23 UTC
+ Last Updated on 17/12/2025 18:52:44 UTC
 <!--END_SECTION:waka-->
