@@ -28,13 +28,15 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2026%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 332.2 kB Used in GitHub's Storage 
+> 📦 332.7 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,6 +44,51 @@ A Student now studying in BUPT
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                40 commits          ████████░░░░░░░░░░░░░░░░░   32.26 % 
+🌆 Daytime                34 commits          ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌃 Evening                50 commits          ██████████░░░░░░░░░░░░░░░   40.32 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Tuesday                  31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Saturday                 39 commits          ████████░░░░░░░░░░░░░░░░░   31.45 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JSON                     49 mins             ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+JavaScript               44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Markdown                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+GAL_SIM                  1 hr 48 mins        ███████████████░░░░░░░░░░   58.79 % 
+GAL-SIM                  58 mins             ████████░░░░░░░░░░░░░░░░░   31.51 % 
+Git                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+
+💻 Operating System: 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -57,5 +104,5 @@ C                        1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:48:01 UTC
+ Last Updated on 05/01/2026 18:53:13 UTC
 <!--END_SECTION:waka-->
