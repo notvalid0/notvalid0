@@ -32,23 +32,70 @@ A Student now studying in BUPT
 
 **🐱 My GitHub Data** 
 
-> 📦 333.1 kB Used in GitHub's Storage 
+> 📦 338.7 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 26 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                42 commits          ████████░░░░░░░░░░░░░░░░░   30.22 % 
+🌆 Daytime                36 commits          ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+🌃 Evening                61 commits          ███████████░░░░░░░░░░░░░░   43.88 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Tuesday                  31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Wednesday                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Saturday                 39 commits          ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      5 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.98 % 
+C                        1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Gradle Kotlin DSL        57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Kotlin                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 44 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+NLTools                  7 hrs 4 mins        ████████████████░░░░░░░░░   65.81 % 
+Git                      1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+BUPTTask                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+ucloud-homework          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+
+💻 Operating System: 
+Linux                    10 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-C++                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Kotlin                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Typst                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -58,5 +105,5 @@ C                        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:57:58 UTC
+ Last Updated on 09/03/2026 19:13:22 UTC
 <!--END_SECTION:waka-->
