@@ -71,24 +71,24 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.80 % 
-Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Gradle Kotlin DSL        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-C                        1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Kotlin                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+C++                      4 hrs 51 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
+Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Gradle Kotlin DSL        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+C                        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Kotlin                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NLTools                  7 hrs 4 mins        ████████████████░░░░░░░░░   62.76 % 
-Git                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-BUPTTask                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-ucloud-homework          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-ucloud-mobile            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+NLTools                  7 hrs 4 mins        ████████████████░░░░░░░░░   64.49 % 
+Git                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+BUPTTask                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+ucloud-homework          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+ucloud-mobile            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Linux                    11 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +108,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2026 19:11:48 UTC
+ Last Updated on 11/03/2026 19:13:39 UTC
 <!--END_SECTION:waka-->
