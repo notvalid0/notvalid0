@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,24 +71,24 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 hrs 51 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
-Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Gradle Kotlin DSL        1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-C                        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Kotlin                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+C++                      3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.21 % 
+Gradle Kotlin DSL        1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Kotlin                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+CMake                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NLTools                  7 hrs 4 mins        ████████████████░░░░░░░░░   64.49 % 
-Git                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-BUPTTask                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-ucloud-homework          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-ucloud-mobile            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+NLTools                  5 hrs 18 mins       ████████████████░░░░░░░░░   65.19 % 
+BUPTTask                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+ucloud-homework          1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+ucloud-mobile            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Linux                    10 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +108,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2026 19:13:39 UTC
+ Last Updated on 12/03/2026 19:14:28 UTC
 <!--END_SECTION:waka-->
