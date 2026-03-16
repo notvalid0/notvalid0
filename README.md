@@ -71,22 +71,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   49 mins             █████████████░░░░░░░░░░░░   53.06 % 
-Gradle Kotlin DSL        20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Markdown                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Lua                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Lua                      6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ucloud-homework          1 hr                ████████████████░░░░░░░░░   65.06 % 
-ucloud-mobile            26 mins             ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Unknown Project          6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +100,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2026 19:02:51 UTC
+ Last Updated on 16/03/2026 19:32:32 UTC
 <!--END_SECTION:waka-->
