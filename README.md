@@ -34,34 +34,34 @@ A Student now studying in BUPT
 
 **🐱 My GitHub Data** 
 
-> 📦 338.8 kB Used in GitHub's Storage 
+> 📦 346.8 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌆 Daytime                37 commits          ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-🌃 Evening                63 commits          ███████████░░░░░░░░░░░░░░   44.37 % 
+🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌆 Daytime                37 commits          ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+🌃 Evening                65 commits          ███████████░░░░░░░░░░░░░░   45.14 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Saturday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Monday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Wednesday                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Saturday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -86,11 +86,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Kotlin                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Typst                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Typst                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -100,5 +100,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2026 19:46:47 UTC
+ Last Updated on 15/04/2026 19:47:37 UTC
 <!--END_SECTION:waka-->
