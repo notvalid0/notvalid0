@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 A Student now studying in BUPT
 
 - 🔭 I’m currently working on : Archlinux(CachyOS) && Hyprland
-- 🌱 I’m currently learning : C Programming Language && Machine Learning
-- 🌳 I'm currently trying : Helix && Git && CMAKE && Raylib
+- 🌱 I’m currently learning : C++ Programming Language && GoLang && Machine Learning
+- 🌳 I'm currently trying : CMAKE && FTXUI
 
 ### My Github Status
 
