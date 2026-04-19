@@ -28,40 +28,40 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 324.9 kB Used in GitHub's Storage 
+> 📦 352.2 kB Used in GitHub's Storage 
  > 
-> 🏆 94 Contributions in the Year 2025
+> 🏆 38 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                25 commits          █████████░░░░░░░░░░░░░░░░   34.25 % 
-🌆 Daytime                14 commits          █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-🌃 Evening                34 commits          ████████████░░░░░░░░░░░░░   46.58 % 
+🌞 Morning                44 commits          ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌆 Daytime                40 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌃 Evening                66 commits          ███████████░░░░░░░░░░░░░░   44.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Tuesday                  13 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Wednesday                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Thursday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Friday                   17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Saturday                 17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Monday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Wednesday                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Saturday                 45 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Sunday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 ```
 
 
@@ -71,27 +71,26 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 mins              ███████████████████░░░░░░   74.73 % 
-CMake                    2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Calcu                    8 mins              ████████████████████████░   97.51 % 
-ShitCode-BUPT            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-C                        1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Typst                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -101,5 +100,5 @@ C                        1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 18:50:06 UTC
+ Last Updated on 18/04/2026 19:12:32 UTC
 <!--END_SECTION:waka-->
