@@ -30,7 +30,7 @@ A Student now studying in BUPT
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -71,24 +71,18 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 57 mins             ███████████████░░░░░░░░░░   60.44 % 
-C++                      31 mins             ████████░░░░░░░░░░░░░░░░░   33.52 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Markdown                 55 mins             ████████████████░░░░░░░░░   63.76 % 
+C++                      31 mins             █████████░░░░░░░░░░░░░░░░   36.24 % 
 
 🔥 Editors: 
-Neovim                   1 hr 34 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 25 mins        ███████████████████████░░   90.58 % 
-Git                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-ShitCode-BUPT            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-clothing-recommend-minipr1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-GAL_SIM                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Unknown Project          1 hr 25 mins        ████████████████████████░   97.92 % 
+ShitCode-BUPT            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +102,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 19:54:07 UTC
+ Last Updated on 01/05/2026 19:46:15 UTC
 <!--END_SECTION:waka-->
