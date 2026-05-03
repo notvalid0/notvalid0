@@ -71,18 +71,17 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 55 mins             ████████████████░░░░░░░░░   63.76 % 
-C++                      31 mins             █████████░░░░░░░░░░░░░░░░   36.24 % 
+Markdown                 55 mins             ████████████████░░░░░░░░░   65.11 % 
+C++                      29 mins             █████████░░░░░░░░░░░░░░░░   34.89 % 
 
 🔥 Editors: 
-Neovim                   1 hr 27 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 25 mins        ████████████████████████░   97.92 % 
-ShitCode-BUPT            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Unknown Project          1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,5 +101,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 19:31:20 UTC
+ Last Updated on 03/05/2026 19:31:57 UTC
 <!--END_SECTION:waka-->
