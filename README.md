@@ -71,16 +71,17 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 11 mins             ██████████████████░░░░░░░   71.92 % 
+Go                       4 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+learn-agent              16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +101,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 19:38:43 UTC
+ Last Updated on 10/05/2026 19:38:03 UTC
 <!--END_SECTION:waka-->
