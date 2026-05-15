@@ -28,8 +28,6 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -44,46 +42,6 @@ A Student now studying in BUPT
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-🌆 Daytime                39 commits          ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-🌃 Evening                65 commits          ███████████░░░░░░░░░░░░░░   44.52 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Saturday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 11 mins             ██████████████████░░░░░░░   71.92 % 
-Go                       4 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-
-🔥 Editors: 
-Neovim                   16 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-learn-agent              16 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -101,5 +59,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:11:21 UTC
+ Last Updated on 15/05/2026 19:57:30 UTC
 <!--END_SECTION:waka-->
