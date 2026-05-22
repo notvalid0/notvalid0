@@ -28,8 +28,6 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -71,17 +69,21 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-VHS                      4 mins              █████████████░░░░░░░░░░░░   52.49 % 
-hyprlang                 3 mins              ████████████░░░░░░░░░░░░░   47.51 % 
+VHS                      29 mins             ████████████████░░░░░░░░░   64.16 % 
+JSON                     12 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+hyprlang                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+Neovim                   46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              █████████████████████████   100.00 % 
+temp-repo                25 mins             ██████████████░░░░░░░░░░░   55.63 % 
+Unknown Project          20 mins             ███████████░░░░░░░░░░░░░░   44.37 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +103,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:16:54 UTC
+ Last Updated on 22/05/2026 20:16:16 UTC
 <!--END_SECTION:waka-->
