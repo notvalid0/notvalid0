@@ -42,50 +42,6 @@ A Student now studying in BUPT
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-🌆 Daytime                39 commits          ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-🌃 Evening                65 commits          ███████████░░░░░░░░░░░░░░   44.52 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Saturday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-VHS                      29 mins             ████████████████░░░░░░░░░   64.16 % 
-JSON                     12 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-hyprlang                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🔥 Editors: 
-Neovim                   46 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-temp-repo                25 mins             ██████████████░░░░░░░░░░░   55.63 % 
-Unknown Project          20 mins             ███████████░░░░░░░░░░░░░░   44.37 % 
-
-💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -103,5 +59,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:16:16 UTC
+ Last Updated on 23/05/2026 19:42:01 UTC
 <!--END_SECTION:waka-->
