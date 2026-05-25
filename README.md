@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,22 +71,23 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      32 mins             █████████░░░░░░░░░░░░░░░░   35.84 % 
-VHS                      29 mins             ████████░░░░░░░░░░░░░░░░░   32.42 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-XML                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Markdown                 1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   36.29 % 
+C++                      1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.09 % 
+VHS                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-Neovim                   1 hr 32 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ShitCode-BUPT            49 mins             █████████████░░░░░░░░░░░░   53.44 % 
-temp-repo                25 mins             ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Unknown Project          16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Unknown Project          1 hr 53 mins        ██████████████░░░░░░░░░░░   55.77 % 
+ShitCode-BUPT            49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+temp-repo                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+houmingxuan              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 💻 Operating System: 
-Linux                    1 hr 32 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +107,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 19:45:11 UTC
+ Last Updated on 25/05/2026 20:06:28 UTC
 <!--END_SECTION:waka-->
