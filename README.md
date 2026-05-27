@@ -71,23 +71,23 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   36.29 % 
-C++                      1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.09 % 
-VHS                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Markdown                 1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   37.03 % 
+C++                      1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.76 % 
+VHS                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 23 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 53 mins        ██████████████░░░░░░░░░░░   55.77 % 
-ShitCode-BUPT            49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-temp-repo                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-houmingxuan              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Unknown Project          1 hr 49 mins        ██████████████░░░░░░░░░░░   54.87 % 
+ShitCode-BUPT            49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+temp-repo                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+houmingxuan              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 💻 Operating System: 
-Linux                    3 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,5 +107,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 20:28:30 UTC
+ Last Updated on 27/05/2026 20:31:27 UTC
 <!--END_SECTION:waka-->
