@@ -28,8 +28,6 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -44,52 +42,6 @@ A Student now studying in BUPT
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-🌆 Daytime                41 commits          ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌃 Evening                67 commits          ███████████░░░░░░░░░░░░░░   44.67 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Saturday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   37.03 % 
-C++                      1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.76 % 
-VHS                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-
-🔥 Editors: 
-Neovim                   3 hrs 19 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          1 hr 49 mins        ██████████████░░░░░░░░░░░   54.87 % 
-ShitCode-BUPT            49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-temp-repo                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-houmingxuan              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-
-💻 Operating System: 
-Linux                    3 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -107,5 +59,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:31:27 UTC
+ Last Updated on 28/05/2026 20:40:15 UTC
 <!--END_SECTION:waka-->
