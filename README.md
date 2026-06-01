@@ -71,22 +71,21 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   39.85 % 
-C++                      1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   36.36 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-reg                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Markdown                 1 hr 13 mins        ████████████████░░░░░░░░░   63.73 % 
+C++                      34 mins             ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 5 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 40 mins        ██████████████░░░░░░░░░░░   54.38 % 
-ShitCode-BUPT            49 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-houmingxuan              35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Unknown Project          1 hr 40 mins        ██████████████████████░░░   86.98 % 
+houmingxuan              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 
 💻 Operating System: 
-Linux                    3 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +105,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 19:46:58 UTC
+ Last Updated on 01/06/2026 21:46:20 UTC
 <!--END_SECTION:waka-->
