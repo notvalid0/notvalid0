@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,21 +71,17 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ████████████████░░░░░░░░░   63.73 % 
-C++                      34 mins             ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+C++                      21 mins             █████████████████████░░░░   83.51 % 
+Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 
 🔥 Editors: 
-Neovim                   1 hr 55 mins        █████████████████████████   100.00 % 
+Neovim                   25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 40 mins        ██████████████████████░░░   86.98 % 
-houmingxuan              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Unknown Project          25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +101,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2026 21:46:20 UTC
+ Last Updated on 02/06/2026 21:27:32 UTC
 <!--END_SECTION:waka-->
