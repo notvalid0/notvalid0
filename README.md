@@ -71,17 +71,21 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 44 mins        ████████████████████████░   97.73 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+C++                      1 hr 48 mins        ████████████████░░░░░░░░░   65.01 % 
+Markdown                 42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🔥 Editors: 
-Neovim                   1 hr 47 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 50 mins        █████████████████░░░░░░░░   66.47 % 
+Claude Code              55 mins             ████████░░░░░░░░░░░░░░░░░   33.53 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 47 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 56 mins        ██████████████████░░░░░░░   70.02 % 
+LogisimWorkSpace         33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+tmp                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +105,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 20:10:49 UTC
+ Last Updated on 20/06/2026 20:01:19 UTC
 <!--END_SECTION:waka-->
