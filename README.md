@@ -71,24 +71,21 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 42 mins             █████████░░░░░░░░░░░░░░░░   36.26 % 
-C++                      35 mins             ████████░░░░░░░░░░░░░░░░░   30.26 % 
-Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-CMake                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-INI                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+C++                      32 mins             ██████████████░░░░░░░░░░░   54.87 % 
+CMake                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+INI                      11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-Neovim                   1 hr 2 mins         █████████████░░░░░░░░░░░░   52.76 % 
-Claude Code              55 mins             ████████████░░░░░░░░░░░░░   47.24 % 
+Neovim                   58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 8 mins         ██████████████░░░░░░░░░░░   57.68 % 
-LogisimWorkSpace         33 mins             ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-tmp                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-FinalProject             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Unknown Project          58 mins             █████████████████████████   99.83 % 
+FinalProject             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +105,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2026 20:15:12 UTC
+ Last Updated on 27/06/2026 19:49:55 UTC
 <!--END_SECTION:waka-->
