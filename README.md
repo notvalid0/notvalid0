@@ -71,21 +71,27 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      32 mins             ██████████████░░░░░░░░░░░   54.87 % 
-CMake                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-INI                      11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+C++                      1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Python                   44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Markdown                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+CMake                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+INI                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🔥 Editors: 
-Neovim                   58 mins             █████████████████████████   100.00 % 
+Code Oss                 1 hr 39 mins        ████████████░░░░░░░░░░░░░   49.97 % 
+Neovim                   1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   32.24 % 
+VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🐱‍💻 Projects: 
-Unknown Project          58 mins             █████████████████████████   99.83 % 
-FinalProject             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Unknown Project          1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   32.19 % 
+FinalProject             44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Transformer--Translator  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+aim-trainer              28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+DesignMethod             26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +111,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2026 19:49:55 UTC
+ Last Updated on 28/06/2026 19:50:58 UTC
 <!--END_SECTION:waka-->
