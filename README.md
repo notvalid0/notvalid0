@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,27 +71,25 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   31.23 % 
-Python                   44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Markdown                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-CMake                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-INI                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+C++                      48 mins             ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Python                   44 mins             ████████░░░░░░░░░░░░░░░░░   30.40 % 
+Markdown                 38 mins             ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+CMake                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Code Oss                 1 hr 39 mins        ████████████░░░░░░░░░░░░░   49.97 % 
-Neovim                   1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   32.24 % 
-VS Code                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Code Oss                 1 hr 39 mins        █████████████████░░░░░░░░   67.54 % 
+VS Code                  48 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   32.19 % 
-FinalProject             44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Transformer--Translator  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-aim-trainer              28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-DesignMethod             26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+FinalProject             1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.81 % 
+Transformer--Translator  29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+aim-trainer              28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+DesignMethod             26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+houmingxuan              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,5 +109,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2026 19:50:58 UTC
+ Last Updated on 29/06/2026 20:19:42 UTC
 <!--END_SECTION:waka-->
