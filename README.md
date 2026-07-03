@@ -36,11 +36,11 @@ A Student now studying in BUPT
 
 > 📦 339.5 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2026
+> 🏆 41 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -71,25 +71,22 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      48 mins             ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Python                   44 mins             ████████░░░░░░░░░░░░░░░░░   30.40 % 
-Markdown                 38 mins             ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-CMake                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+C++                      48 mins             ███████████████████░░░░░░   77.51 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Code Oss                 1 hr 39 mins        █████████████████░░░░░░░░   67.54 % 
-VS Code                  48 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
+VS Code                  48 mins             ███████████████████░░░░░░   76.06 % 
+Code Oss                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
 
 🐱‍💻 Projects: 
-FinalProject             1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.81 % 
-Transformer--Translator  29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-aim-trainer              28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-DesignMethod             26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-houmingxuan              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+FinalProject             1 hr 2 mins         █████████████████████████   98.31 % 
+houmingxuan              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,5 +106,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 19:58:20 UTC
+ Last Updated on 03/07/2026 19:55:47 UTC
 <!--END_SECTION:waka-->
