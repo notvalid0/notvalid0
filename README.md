@@ -36,7 +36,7 @@ A Student now studying in BUPT
 
 > 📦 339.5 kB Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2026
+> 🏆 42 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,32 +71,28 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      48 mins             ███████████████████░░░░░░   77.51 % 
-Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+C++                      45 mins             ████████████████████████░   94.06 % 
+CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-VS Code                  48 mins             ███████████████████░░░░░░   76.06 % 
-Code Oss                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FinalProject             1 hr 2 mins         █████████████████████████   98.31 % 
-houmingxuan              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+FinalProject             48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
+Linux                    48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Typst                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Typst                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -106,5 +102,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 19:55:47 UTC
+ Last Updated on 04/07/2026 19:42:19 UTC
 <!--END_SECTION:waka-->
