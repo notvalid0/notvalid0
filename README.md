@@ -71,18 +71,16 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      45 mins             ████████████████████████░   94.06 % 
-CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+C++                      18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FinalProject             48 mins             █████████████████████████   100.00 % 
+FinalProject             18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    48 mins             █████████████████████████   100.00 % 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,5 +100,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 19:42:19 UTC
+ Last Updated on 05/07/2026 19:48:29 UTC
 <!--END_SECTION:waka-->
