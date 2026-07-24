@@ -42,47 +42,6 @@ A Student now studying in BUPT
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-🌆 Daytime                41 commits          ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-🌃 Evening                69 commits          ███████████░░░░░░░░░░░░░░   45.39 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Saturday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    20 mins             ██████████████░░░░░░░░░░░   57.30 % 
-C++                      15 mins             ███████████░░░░░░░░░░░░░░   42.70 % 
-
-🔥 Editors: 
-Neovim                   36 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-tmp                      20 mins             ██████████████░░░░░░░░░░░   57.30 % 
-Unknown Project          15 mins             ███████████░░░░░░░░░░░░░░   42.70 % 
-
-💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -100,5 +59,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:53:21 UTC
+ Last Updated on 24/07/2026 19:52:34 UTC
 <!--END_SECTION:waka-->
