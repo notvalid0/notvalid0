@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%208%20mins-blue?style=flat)
 
@@ -108,5 +108,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:49:09 UTC
+ Last Updated on 29/08/2026 21:02:25 UTC
 <!--END_SECTION:waka-->
