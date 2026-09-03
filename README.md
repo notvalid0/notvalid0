@@ -73,16 +73,23 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       17 mins             █████████████████████████   100.00 % 
+Python                   1 hr 8 mins         ██████████████████░░░░░░░   72.22 % 
+Go                       17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+jsonc                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Neovim                   17 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 15 mins        ████████████████████░░░░░   79.67 % 
+Zed                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🐱‍💻 Projects: 
-Git                      17 mins             █████████████████████████   100.00 % 
+LLMBook-zh.github.io     1 hr 8 mins         ██████████████████░░░░░░░   72.37 % 
+Git                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,5 +115,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:10:41 UTC
+ Last Updated on 03/09/2026 21:10:58 UTC
 <!--END_SECTION:waka-->
