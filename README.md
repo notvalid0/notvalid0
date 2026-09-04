@@ -28,7 +28,7 @@ A Student now studying in BUPT
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%208%20mins-blue?style=flat)
 
@@ -73,29 +73,46 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 8 mins         ██████████████████░░░░░░░   72.22 % 
-Go                       17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-jsonc                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   1 hr 55 mins        ███████████████████░░░░░░   75.27 % 
+Other                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Neovim                   1 hr 15 mins        ████████████████████░░░░░   79.67 % 
-Zed                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Zed                      1 hr 4 mins         ███████████░░░░░░░░░░░░░░   42.17 % 
+Neovim                   57 mins             █████████░░░░░░░░░░░░░░░░   37.53 % 
+Code Oss                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🐱‍💻 Projects: 
-LLMBook-zh.github.io     1 hr 8 mins         ██████████████████░░░░░░░   72.37 % 
-Git                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+LLMBook-zh.github.io     1 hr 56 mins        ███████████████████░░░░░░   75.36 % 
+RUC                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 💻 Operating System: 
-Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 28 mins (18.56%)
+
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+
+🔤 736,505 Input Tokens, 43,037 Output Tokens
+
+💵 $9.52 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 134 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -115,5 +132,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:10:58 UTC
+ Last Updated on 04/09/2026 20:53:38 UTC
 <!--END_SECTION:waka-->
