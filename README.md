@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 #### About Me
 
-A Student now studying in BUPT
+A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra. 
 
-- 🔭 I’m currently working on : Archlinux(CachyOS) && Hyprland
-- 🌱 I’m currently learning : C++ Programming Language && GoLang && Machine Learning
-- 🌳 I'm currently trying : CMAKE && FTXUI
+- 🔭 I’m currently working on : Archlinux && Hyprland
+- 🌱 I’m currently learning : LLM Pre-Training && GoLang
+- 🌳 I'm currently trying : Triton 
 
 ### My Github Status
 
