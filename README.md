@@ -28,7 +28,7 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%208%20mins-blue?style=flat)
 
@@ -38,7 +38,7 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 
 > 📦 339.5 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2026
+> 🏆 44 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,21 +49,21 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-🌆 Daytime                41 commits          ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-🌃 Evening                69 commits          ███████████░░░░░░░░░░░░░░   45.39 % 
+🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌆 Daytime                43 commits          ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+🌃 Evening                69 commits          ███████████░░░░░░░░░░░░░░   44.81 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Saturday                 40 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Saturday                 42 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 ```
 
 
@@ -73,30 +73,30 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        ███████████████████░░░░░░   75.27 % 
-Other                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   2 hrs 52 mins       ████████████████████░░░░░   81.90 % 
+Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Zed                      1 hr 4 mins         ███████████░░░░░░░░░░░░░░   42.17 % 
-Neovim                   57 mins             █████████░░░░░░░░░░░░░░░░   37.53 % 
-Code Oss                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Neovim                   1 hr 54 mins        ██████████████░░░░░░░░░░░   54.31 % 
+Zed                      1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.84 % 
+Code Oss                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🐱‍💻 Projects: 
-LLMBook-zh.github.io     1 hr 56 mins        ███████████████████░░░░░░   75.36 % 
-RUC                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+LLMBook-zh.github.io     2 hrs 52 mins       ████████████████████░░░░░   81.98 % 
+RUC                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 💻 Operating System: 
-Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (18.56%)
+⏱ AI Coding Time: 28 mins (13.57%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -132,5 +132,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:53:38 UTC
+ Last Updated on 05/09/2026 20:31:20 UTC
 <!--END_SECTION:waka-->
