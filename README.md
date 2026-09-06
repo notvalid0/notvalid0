@@ -28,7 +28,7 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%208%20mins-blue?style=flat)
 
@@ -73,46 +73,49 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 52 mins       ████████████████████░░░░░   81.90 % 
-Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Python                   3 hrs 39 mins       ████████████████████░░░░░   81.89 % 
+Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Neovim                   1 hr 54 mins        ██████████████░░░░░░░░░░░   54.31 % 
-Zed                      1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.84 % 
-Code Oss                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Neovim                   2 hrs 40 mins       ███████████████░░░░░░░░░░   59.98 % 
+Zed                      1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Code Oss                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-LLMBook-zh.github.io     2 hrs 52 mins       ████████████████████░░░░░   81.98 % 
-RUC                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+LLMBook-zh.github.io     3 hrs 3 mins        █████████████████░░░░░░░░   68.50 % 
+Unknown Project          49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+RUC                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+minimind                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (13.57%)
+⏱ AI Coding Time: 39 mins (14.81%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 59 lines written by AI, 19 lines written by hand (75.64% AI-written)
 
-🔤 736,505 Input Tokens, 43,037 Output Tokens
+🔤 1,752,840 Input Tokens, 51,270 Output Tokens
 
-💵 $9.52 Estimated AI Cost This Week
+💵 $20.09 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
+Claude                   59 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 134 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 75.64% of written lines came from AI
+📝 Concise Prompter — average 115 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 25.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -132,5 +135,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:31:20 UTC
+ Last Updated on 06/09/2026 20:34:02 UTC
 <!--END_SECTION:waka-->
