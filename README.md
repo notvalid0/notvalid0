@@ -28,9 +28,9 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -73,49 +73,47 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 26 mins       ██████████████████████░░░   86.23 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Python                   5 hrs 26 mins       ███████████████████████░░   93.28 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 30 mins       ██████████████████░░░░░░░   71.61 % 
-Zed                      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Code Oss                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Neovim                   4 hrs 30 mins       ███████████████████░░░░░░   77.46 % 
+Zed                      1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-LLMBook-zh.github.io     4 hrs 44 mins       ███████████████████░░░░░░   75.32 % 
-Unknown Project          52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-RUC                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-minimind                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+LLMBook-zh.github.io     4 hrs 44 mins       ████████████████████░░░░░   81.48 % 
+Unknown Project          52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+minimind                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 💻 Operating System: 
-Linux                    6 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (20.63%)
+⏱ AI Coding Time: 49 mins (14.14%)
 
 ✍️ 59 lines written by AI, 108 lines written by hand (35.33% AI-written)
 
-🔤 2,047,031 Input Tokens, 55,322 Output Tokens
+🔤 1,310,526 Input Tokens, 12,285 Output Tokens
 
-💵 $23.24 Estimated AI Cost This Week
+💵 $13.72 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Claude                   59 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 35.33% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 97 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 65.5% of changed lines were hand-edited
 ```
 
@@ -136,5 +134,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:38:14 UTC
+ Last Updated on 08/09/2026 21:17:24 UTC
 <!--END_SECTION:waka-->
