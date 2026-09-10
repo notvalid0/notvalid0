@@ -73,33 +73,32 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 26 mins       ███████████████████████░░   93.28 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   4 hrs 17 mins       ████████████████████████░   94.55 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 30 mins       ███████████████████░░░░░░   77.46 % 
-Zed                      1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Neovim                   3 hrs 33 mins       ████████████████████░░░░░   78.15 % 
+Zed                      47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-LLMBook-zh.github.io     4 hrs 44 mins       ████████████████████░░░░░   81.48 % 
-Unknown Project          52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-minimind                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+LLMBook-zh.github.io     3 hrs 36 mins       ████████████████████░░░░░   79.36 % 
+Unknown Project          44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+minimind                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-Linux                    5 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (14.14%)
+⏱ AI Coding Time: 49 mins (18.14%)
 
-✍️ 59 lines written by AI, 108 lines written by hand (35.33% AI-written)
+✍️ 59 lines written by AI, 107 lines written by hand (35.54% AI-written)
 
 🔤 1,310,526 Input Tokens, 12,285 Output Tokens
 
@@ -111,10 +110,10 @@ Claude                   59 lines            ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.33% of written lines came from AI
+⚖️ Balanced with AI — 35.54% of written lines came from AI
 📝 Concise Prompter — average 97 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 65.5% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 65.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,5 +133,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:02:20 UTC
+ Last Updated on 10/09/2026 21:01:18 UTC
 <!--END_SECTION:waka-->
