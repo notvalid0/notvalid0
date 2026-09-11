@@ -73,30 +73,29 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 17 mins       ████████████████████████░   94.55 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   3 hrs 30 mins       ███████████████████████░░   92.91 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 33 mins       ████████████████████░░░░░   78.15 % 
-Zed                      47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Neovim                   3 hrs 35 mins       ████████████████████████░   95.06 % 
+Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🐱‍💻 Projects: 
-LLMBook-zh.github.io     3 hrs 36 mins       ████████████████████░░░░░   79.36 % 
-Unknown Project          44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-minimind                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+LLMBook-zh.github.io     2 hrs 48 mins       ███████████████████░░░░░░   74.61 % 
+Unknown Project          43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+minimind                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+notvalid0                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Linux                    4 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (18.14%)
+⏱ AI Coding Time: 49 mins (21.85%)
 
 ✍️ 59 lines written by AI, 107 lines written by hand (35.54% AI-written)
 
@@ -133,5 +132,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:01:18 UTC
+ Last Updated on 11/09/2026 21:05:21 UTC
 <!--END_SECTION:waka-->
