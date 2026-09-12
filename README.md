@@ -73,29 +73,28 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 30 mins       ███████████████████████░░   92.91 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   2 hrs 33 mins       ███████████████████████░░   91.67 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 35 mins       ████████████████████████░   95.06 % 
-Claude Code              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Neovim                   2 hrs 36 mins       ███████████████████████░░   93.34 % 
+Claude Code              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 🐱‍💻 Projects: 
-LLMBook-zh.github.io     2 hrs 48 mins       ███████████████████░░░░░░   74.61 % 
-Unknown Project          43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-minimind                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-notvalid0                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+LLMBook-zh.github.io     1 hr 52 mins        █████████████████░░░░░░░░   66.95 % 
+Unknown Project          43 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+minimind                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 💻 Operating System: 
-Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (21.85%)
+⏱ AI Coding Time: 49 mins (29.49%)
 
 ✍️ 59 lines written by AI, 107 lines written by hand (35.54% AI-written)
 
@@ -132,5 +131,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:05:21 UTC
+ Last Updated on 12/09/2026 20:43:10 UTC
 <!--END_SECTION:waka-->
