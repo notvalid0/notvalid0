@@ -73,45 +73,41 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 33 mins       ███████████████████████░░   91.67 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   1 hr 46 mins        ████████████████████████░   96.83 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 36 mins       ███████████████████████░░   93.34 % 
-Claude Code              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Neovim                   1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LLMBook-zh.github.io     1 hr 52 mins        █████████████████░░░░░░░░   66.95 % 
-Unknown Project          43 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-minimind                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+LLMBook-zh.github.io     1 hr 41 mins        ███████████████████████░░   91.96 % 
+minimind                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Linux                    2 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (29.49%)
+⏱ AI Coding Time: 38 mins (34.82%)
 
-✍️ 59 lines written by AI, 107 lines written by hand (35.54% AI-written)
+✍️ 0 lines written by AI, 89 lines written by hand (0.0% AI-written)
 
-🔤 1,310,526 Input Tokens, 12,285 Output Tokens
+🔤 294,191 Input Tokens, 4,052 Output Tokens
 
-💵 $13.72 Estimated AI Cost This Week
+💵 $3.14 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Claude                   59 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.54% of written lines came from AI
-📝 Concise Prompter — average 97 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 126 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 65.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -131,5 +127,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:43:10 UTC
+ Last Updated on 13/09/2026 20:59:01 UTC
 <!--END_SECTION:waka-->
