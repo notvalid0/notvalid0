@@ -73,38 +73,48 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-fish                     2 mins              ███████████████░░░░░░░░░░   60.48 % 
-Other                    1 min               ██████████░░░░░░░░░░░░░░░   39.52 % 
+Typst                    1 hr 8 mins         ███████████████░░░░░░░░░░   59.57 % 
+sh                       23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+fish                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Neovim                   4 mins              █████████████████████████   100.00 % 
+Neovim                   1 hr 39 mins        ██████████████████████░░░   86.31 % 
+Claude Code              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              ███████████████░░░░░░░░░░   60.48 % 
-RAPrepare                1 min               ██████████░░░░░░░░░░░░░░░   39.52 % 
+RAPrepare                41 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
+综合评价                     34 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+bupt-net-login           24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+houmingxuan              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (39.52%)
+⏱ AI Coding Time: 1 hr 22 mins (71.63%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 1,023 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 8,565,552 Input Tokens, 104,958 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $90.90 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 11 AI Sessions, 21 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,422 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,5 +134,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 21:31:47 UTC
+ Last Updated on 23/09/2026 21:37:26 UTC
 <!--END_SECTION:waka-->
