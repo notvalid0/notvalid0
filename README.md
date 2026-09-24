@@ -28,7 +28,7 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2059%20mins-blue?style=flat)
 
@@ -73,46 +73,46 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Typst                    1 hr 8 mins         ███████████████░░░░░░░░░░   59.57 % 
-sh                       23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-fish                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Typst                    42 mins             ████████████░░░░░░░░░░░░░   47.85 % 
+sh                       23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+fish                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🔥 Editors: 
-Neovim                   1 hr 39 mins        ██████████████████████░░░   86.31 % 
-Claude Code              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Neovim                   1 hr 13 mins        █████████████████████░░░░   82.34 % 
+Claude Code              15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 
 🐱‍💻 Projects: 
-RAPrepare                41 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
-综合评价                     34 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-bupt-net-login           24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-houmingxuan              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+综合评价                     34 mins             ██████████░░░░░░░░░░░░░░░   38.62 % 
+bupt-net-login           24 mins             ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+RAPrepare                15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+houmingxuan              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 22 mins (71.63%)
+⏱ AI Coding Time: 56 mins (63.41%)
 
 ✍️ 0 lines written by AI, 1,023 lines written by hand (0.0% AI-written)
 
-🔤 8,565,552 Input Tokens, 104,958 Output Tokens
+🔤 3,117,940 Input Tokens, 61,908 Output Tokens
 
-💵 $90.90 Estimated AI Cost This Week
+💵 $34.27 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 21 AI Prompts
+🧠 9 AI Sessions, 17 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,422 characters per prompt
+📚 Verbose Prompter — average 1,722 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -134,5 +134,5 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:37:26 UTC
+ Last Updated on 24/09/2026 21:38:36 UTC
 <!--END_SECTION:waka-->
