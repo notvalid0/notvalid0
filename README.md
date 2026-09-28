@@ -38,11 +38,11 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 
 > 📦 341.7 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2026
+> 🏆 49 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -73,30 +73,30 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       23 mins             ███████████████░░░░░░░░░░   58.77 % 
-Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-fish                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+sh                       1 hr 16 mins        █████████████████████░░░░   82.61 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+fish                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-Neovim                   39 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bupt-net-login           24 mins             ███████████████░░░░░░░░░░   61.61 % 
-houmingxuan              6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Git                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Git                      51 mins             ██████████████░░░░░░░░░░░   55.17 % 
+bupt-net-login           30 mins             ████████░░░░░░░░░░░░░░░░░   33.29 % 
+houmingxuan              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (16.31%)
+⏱ AI Coding Time: 6 mins (6.88%)
 
-✍️ 0 lines written by AI, 1,023 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,118 lines written by hand (0.0% AI-written)
 
 🔤 995,178 Input Tokens, 10,372 Output Tokens
 
@@ -130,5 +130,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:29:39 UTC
+ Last Updated on 28/09/2026 23:24:33 UTC
 <!--END_SECTION:waka-->
