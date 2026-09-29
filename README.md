@@ -28,7 +28,7 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 [![NotValid0's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=notvalid0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/notvalid0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2059%20mins-blue?style=flat)
 
@@ -73,44 +73,26 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       1 hr 16 mins        █████████████████████░░░░   82.61 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-fish                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+sh                       1 hr 16 mins        ██████████████████████░░░   88.71 % 
+fish                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-Neovim                   1 hr 33 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Git                      51 mins             ██████████████░░░░░░░░░░░   55.17 % 
-bupt-net-login           30 mins             ████████░░░░░░░░░░░░░░░░░   33.29 % 
-houmingxuan              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Git                      51 mins             ███████████████░░░░░░░░░░   59.24 % 
+bupt-net-login           30 mins             █████████░░░░░░░░░░░░░░░░   35.74 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 💻 Operating System: 
-Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (6.88%)
-
-✍️ 0 lines written by AI, 1,118 lines written by hand (0.0% AI-written)
-
-🔤 995,178 Input Tokens, 10,372 Output Tokens
-
-💵 $10.47 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,466 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -130,5 +112,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:24:33 UTC
+ Last Updated on 29/09/2026 22:27:11 UTC
 <!--END_SECTION:waka-->
