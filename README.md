@@ -36,7 +36,7 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 
 **🐱 My GitHub Data** 
 
-> 📦 341.7 kB Used in GitHub's Storage 
+> 📦 341.8 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2026
  > 
@@ -73,20 +73,17 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       1 hr 16 mins        ██████████████████████░░░   88.71 % 
-fish                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+sh                       1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   1 hr 26 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Git                      51 mins             ███████████████░░░░░░░░░░   59.24 % 
-bupt-net-login           30 mins             █████████░░░░░░░░░░░░░░░░   35.74 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Git                      56 mins             █████████████████████░░░░   83.23 % 
+bupt-net-login           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 
 💻 Operating System: 
-Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,5 +109,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:27:11 UTC
+ Last Updated on 30/09/2026 22:26:16 UTC
 <!--END_SECTION:waka-->
