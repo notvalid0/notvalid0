@@ -38,32 +38,32 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 
 > 📦 341.8 kB Used in GitHub's Storage 
  > 
-> 🏆 49 Contributions in the Year 2026
+> 🏆 53 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌆 Daytime                44 commits          ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-🌃 Evening                71 commits          ███████████░░░░░░░░░░░░░░   45.22 % 
+🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌆 Daytime                46 commits          ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+🌃 Evening                72 commits          ███████████░░░░░░░░░░░░░░   45.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Saturday                 42 commits          ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Monday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 42 commits          ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 ```
 
 
@@ -95,11 +95,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Typst                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Typst                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -109,5 +109,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:48:29 UTC
+ Last Updated on 02/10/2026 22:24:05 UTC
 <!--END_SECTION:waka-->
