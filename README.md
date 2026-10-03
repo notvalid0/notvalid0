@@ -38,7 +38,7 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 
 > 📦 341.8 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,21 +49,21 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42 commits          ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-🌆 Daytime                46 commits          ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌃 Evening                72 commits          ███████████░░░░░░░░░░░░░░   45.00 % 
+🌞 Morning                43 commits          ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌆 Daytime                46 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌃 Evening                72 commits          ███████████░░░░░░░░░░░░░░   44.72 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Saturday                 42 commits          ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Monday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Tuesday                  31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 43 commits          ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 
 
@@ -73,17 +73,19 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       1 hr 7 mins         █████████████████████████   100.00 % 
+sh                       1 hr 7 mins         ████████████████████████░   96.78 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-Neovim                   1 hr 7 mins         █████████████████████████   100.00 % 
+Neovim                   1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Git                      56 mins             █████████████████████░░░░   83.23 % 
-bupt-net-login           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Git                      56 mins             ████████████████████░░░░░   80.55 % 
+bupt-net-login           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+easy-bupt-cuda-install   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,5 +111,5 @@ Typst                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:24:05 UTC
+ Last Updated on 03/10/2026 21:33:22 UTC
 <!--END_SECTION:waka-->
