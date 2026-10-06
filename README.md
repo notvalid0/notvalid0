@@ -73,19 +73,19 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       1 hr 7 mins         ████████████████████████░   96.78 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+sh                       13 mins             █████████████████████░░░░   85.95 % 
+Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 
 🔥 Editors: 
-Neovim                   1 hr 9 mins         █████████████████████████   100.00 % 
+Neovim                   16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Git                      56 mins             ████████████████████░░░░░   80.55 % 
-bupt-net-login           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-easy-bupt-cuda-install   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Git                      9 mins              ██████████████░░░░░░░░░░░   57.65 % 
+bupt-net-login           4 mins              ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+easy-bupt-cuda-install   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,5 +111,5 @@ Typst                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:42:44 UTC
+ Last Updated on 06/10/2026 00:12:32 UTC
 <!--END_SECTION:waka-->
