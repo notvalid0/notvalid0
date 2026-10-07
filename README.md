@@ -73,19 +73,16 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       13 mins             █████████████████████░░░░   85.95 % 
-Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Markdown                 2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   16 mins             █████████████████████████   100.00 % 
+Neovim                   2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Git                      9 mins              ██████████████░░░░░░░░░░░   57.65 % 
-bupt-net-login           4 mins              ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-easy-bupt-cuda-install   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+easy-bupt-cuda-install   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,5 +108,5 @@ Typst                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:43:23 UTC
+ Last Updated on 07/10/2026 23:13:51 UTC
 <!--END_SECTION:waka-->
