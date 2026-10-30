@@ -32,7 +32,7 @@ A Student now studying in BUPT, interested in LLM Pre-Training && AI-Infra.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -108,5 +108,5 @@ Typst                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/notvalid0/notvalid0/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:53:45 UTC
+ Last Updated on 30/10/2026 22:31:58 UTC
 <!--END_SECTION:waka-->
